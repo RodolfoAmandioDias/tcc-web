@@ -1,0 +1,4 @@
+/target/
+*.log
+tccWs.iml
+*.idea
